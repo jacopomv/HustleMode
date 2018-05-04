@@ -1,2 +1,2 @@
 # HustleMode
-Chillinh with some Swift programming
+Chilling with some Swift programming
